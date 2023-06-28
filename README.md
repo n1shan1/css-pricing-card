@@ -1,4 +1,4 @@
-# Project Name
+# CSS Pricing card UI
 
 Community Membership Website Basic CSS pricing card UI
 
