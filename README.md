@@ -15,9 +15,6 @@ The give UI is a frontend implementation of the pricing card (non-responsive) wi
 
 1. Open the `index.html` file in a web browser.
 2. Explore the website to learn more about the community membership and its benefits.
-3. Click the "Sign Up" button to start the monthly subscription process.
-4. Interact with the community forum, access the tutorials and coding exercises, and explore the GitHub repositories.
-5. Make the most of the resources available to enhance your coding skills.
 
 ## Technologies Used
 
